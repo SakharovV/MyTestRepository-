@@ -5,8 +5,8 @@ about: Create a report to help us improve
 ---
 
 **Preconditions:**
-Build version:
-OS version:
+> Build version:
+> OS version:
 
 **STR:**
 1. Go to '...'
