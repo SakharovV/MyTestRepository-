@@ -4,12 +4,12 @@ about: Standard task for cover app with tests
 
 ---
 
-**Description**
+**Description:**
 
 **Steps:**
 
 **Issue covers:**
 
-**Requrements:**
+**Requirements:**
 
-**TesrRailLink:**
+**TestRail link:**

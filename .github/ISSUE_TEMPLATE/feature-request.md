@@ -8,6 +8,6 @@ about: Suggest an idea for this project
 
 **Attachments & Notes:**
 
-**Related issues:**
+**Related issues (links):**
 
-**Test Coverage:**
+**Test Coverage (links):**
