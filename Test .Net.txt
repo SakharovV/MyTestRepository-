@@ -1,0 +1,32 @@
+Back button checking (2nd screen)
+Measurements data Elements checking 
+Detection Technology elements checking
+3rd screen elements checking at rack radiobutton checked
+3rd screen elements checking at Microplate radiobutton checked
+3rd screen elements checking at Microplate radiobutton, Custom is selected checked
+Back button checking (3rd screen)
+Sample types (4th) screen elements checking
+Back button checking (4th screen)
+Manage Types screen Elements checking
+Adding new Sample
+Deleting new Sample
+Deleting existing Sample
+Changing Sample name (+ OK button, verify saving)
+Changing Sample type  (+ OK button, verify saving)
+Changing Sample color  (+ OK button, verify saving)
+Cancel button (exit without changes)
+5th screen elements checking (highlight picture, edit button is enabled)
+Back button checking (5th screen)
+6th screen elements checking (data  format enabled)
+Back button checking (6th screen)
+editing data on pad
+7th screen elements checking (data  format enabled)
+Back button checking (7th screen)
+Editing date on description and name fields
+Results naming screen elements checking (+ custom radiobutton enabling)
+Cancel button checking (RN screen)
+Editing date on description and name fields
+8th screen elements checking (data  format enabled)
+Back button checking (8th screen)
+Finish (Launch protocol)
+Finish (not Launch protocol)
