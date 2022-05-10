@@ -11,13 +11,11 @@ Manage Types screen Elements checking
 Adding new Sample
 Deleting new Sample
 Deleting existing Sample
-Changing Sample name (+ OK button, verify saving)
-Changing Sample type  (+ OK button, verify saving)
-Changing Sample color  (+ OK button, verify saving)
 Cancel button (exit without changes)
 5th screen elements checking (highlight picture, edit button is enabled)
 Back button checking (5th screen)
 6th screen elements checking (data  format enabled)
+dasmbdasmndbasmbdamnsbdasmndbas
 Back button checking (6th screen)
 editing data on pad
 7th screen elements checking (data  format enabled)
